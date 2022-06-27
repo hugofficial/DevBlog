@@ -1,4 +1,4 @@
-# DevBlog
+# App de Blog - React Native
 
 <br/>
 
@@ -7,4 +7,4 @@
  </div>
 
 <br/>
-Projeto criado na Semana React Native Insider 5 com a @sujeitoprogramador
+Projeto criado na Semana React Native Insider 5 
